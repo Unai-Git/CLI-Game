@@ -17,5 +17,5 @@
 npm install
 ```
 
-**Resultado:**
+## Preview
 ![Video mostrando resultado](CLI-Game.gif)
